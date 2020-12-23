@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuScene.unity
+    guid: d52a2beb7de51c24da79a70b6b4f8bdf
+  - enabled: 1
+    path: Assets/Scenes/MenuSelectWordScene.unity
+    guid: 3f02f2b8f61e806439db3dff6c25283c
+  - enabled: 1
+    path: Assets/Scenes/MenuDifficultyScene.unity
+    guid: 64110c5b758b26d4d944d6df3599a5be
+  - enabled: 1
+    path: Assets/Scenes/TimeAttackScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/GameOverScene.unity
+    guid: e56ba0fd0e5d889488aeaf9d3cace495
+  - enabled: 1
+    path: Assets/Scenes/CountdownScene.unity
+    guid: 7d174a7feeb18834db9c490bc41568aa
+  m_configObjects: {}

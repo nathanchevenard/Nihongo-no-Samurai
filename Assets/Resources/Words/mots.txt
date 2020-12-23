@@ -1,0 +1,11 @@
+haru,printemps
+natsu,ete
+aki,automne
+fuyu,hiver
+nichiyoubi,dimanche
+getsuyoubi,lundi
+kayoubi,mardi
+suiyoubi,mercredi
+mokuyoubi,jeudi
+kinyoubi,vendredi
+doyoubi,samedi

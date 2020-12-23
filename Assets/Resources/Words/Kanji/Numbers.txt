@@ -1,0 +1,13 @@
+﻿一,ichi,un
+二,ni,deux
+三,san,trois
+四,yon,quatre
+五,go,cinq
+六,roku,six
+七,nana,sept
+八,hachi,huit
+九,kyuu,neuf
+十,juu,dix
+百,hyaku,cent
+千,sen,mille
+万,man,dix mille
